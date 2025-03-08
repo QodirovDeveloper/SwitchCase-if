@@ -1,4 +1,5 @@
 //!__________________________________________________
+//! Tosh, Qaychi, Qog'oz o'yinini
 //!! ikki foydalanuvchi oynaydi bu oyni
 
 const userFirst = prompt("1-user 'tosh', 'qaychi' yoki 'qogoz'ni kiriting: ")
@@ -40,7 +41,7 @@ switch (true) {
 // }
 
 //!__________________________________________________
-
+//! Kabisa yilini
 // const year = prompt('Yil kiriting: ');
 // if (year % 4 == 0) {
 //   if (year % 100 == 0) {
@@ -57,6 +58,7 @@ switch (true) {
 // }
 
 //!__________________________________________________
+//! Bugungi sana va vaqt
 //! mm-dd-yyyy, mm/dd/yyyy or dd-mm-yyyy, dd/mm/yyyy
 
 // const now = new Date();
@@ -80,6 +82,7 @@ switch (true) {
 // );
 
 //!__________________________________________________
+//! Bugungi sana va vaqt
 
 // const now0 = new Date();
 // console.log(`year: ${now0.getFullYear()}`);
@@ -99,6 +102,7 @@ switch (true) {
 // console.log(`vaqt: ${now7.toLocaleTimeString()}`);
 
 //!__________________________________________________
+//! qoshimcha vazifa
 
 // let i = 120;
 // setInterval(()=> {
